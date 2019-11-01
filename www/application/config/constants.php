@@ -83,3 +83,13 @@ defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); // invalid user 
 defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
+
+define('_HOME_DIR_', $_SERVER['DOCUMENT_ROOT']);
+
+define('_CSS_DIR_', '/common/css');
+define('_JS_DIR_', '/common/js');
+define('_IMG_DIR_', '/common/img');
+define('_LIB_DIR_', '/common/lib');
+
+define('_HOME_CSS_DIR_', _HOME_DIR_.'/common/css');
+define('_HOME_JS_DIR_', _HOME_DIR_.'/common/js');
