@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title>소반 (소중한 내 반려동물)</title>
-	<link rel="stylesheet" type="text/css" href="<?=_CSS_DIR_?>/reset.css">
-	<link rel="stylesheet" type="text/css" href="<?=_CSS_DIR_?>/main.css">
+	<link rel="stylesheet" type="text/css" href="/common/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/common/css/main.css">
 
-	<link rel="stylesheet" href="<?=_LIB_DIR_?>/swiper/swiper.min.css">
+	<link rel="stylesheet" href="/common/lib/swiper/swiper.min.css">
 </head>
 <body>
 	<header>
@@ -19,7 +19,7 @@
 
 		<div class="top-menu">
 			<div class="top-menu-container">
-				<div class="logo"><img src="<?=_IMG_DIR_?>/logo.jpg"></div>
+				<div class="logo"><img src="/common/img/logo.jpg"></div>
 				<ul class="menu-list">
 					<li><a href="#">반려동물 정보</a></li>
 					<li><a href="#">반려동물 질문</a></li>
@@ -36,7 +36,7 @@
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
 						<div class="swiper-slide">
-							<div class="slide-image"><img src="<?=_IMG_DIR_?>/banner.jpg"></div>
+							<div class="slide-image"><img src="/common/img/banner.jpg"></div>
 							<div class="slide-text">
 								<div class="title">동네 사람들 우리 냥이 자는 것 좀 보세요~</div>
 								<div class="writer">가을방장(imyssu)</div>
@@ -47,7 +47,7 @@
 							</div>
 						</div>
 						<div class="swiper-slide">
-							<div class="slide-image"><img src="<?=_IMG_DIR_?>/banner.jpg"></div>
+							<div class="slide-image"><img src="/common/img/banner.jpg"></div>
 							<div class="slide-text">
 								<div class="title">동네 사람들 우리 냥이 자는 것 좀 보세요~</div>
 								<div class="writer">가을방장(imyssu)</div>
@@ -58,7 +58,7 @@
 							</div>
 						</div>
 						<div class="swiper-slide">
-							<div class="slide-image"><img src="<?=_IMG_DIR_?>/banner.jpg"></div>
+							<div class="slide-image"><img src="/common/img/banner.jpg"></div>
 							<div class="slide-text">
 								<div class="title">동네 사람들 우리 냥이 자는 것 좀 보세요~</div>
 								<div class="writer">가을방장(imyssu)</div>
