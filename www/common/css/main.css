@@ -27,8 +27,6 @@ header .top-menu .menu-list a:hover {color:#E59846;}
 .slide-text .contents {width:100%;padding-top:30px;font-size:15px;line-height:120%;}
 
 
-
-
 .board-preview {width:100%;background-color:#f5f5f5;}
 .board-preview-container {width:100%;max-width:1080px;margin:auto;overflow:hidden;}
 .board-preview-container .pet-info {width:calc(50% - 25px);margin-right:25px;padding:37px 0px;float:left;}
